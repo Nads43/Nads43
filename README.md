@@ -1,7 +1,6 @@
 # Ola! Meu nome é Nadalin  
 - Estou aprendendo linguagem JavaScript e HTML
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-- Utilizo a porra do [Alura](https://www.alura.com.br/)
 - Gosto de violino e piano
 - CLT 6x1
 
